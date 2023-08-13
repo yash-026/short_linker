@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1017314117269",
+    "project_id": "short-linker-ff2cc",
+    "storage_bucket": "short-linker-ff2cc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1017314117269:android:df39c3fd0b432e30efbd9c",
+        "android_client_info": {
+          "package_name": "com.example.short_linker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1017314117269-llgs0f1ppok4rtdd7oiim1rhjdsu73bv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4qQ6F5GGSjqejLVzSY7eloPC6vJub2Pc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1017314117269-llgs0f1ppok4rtdd7oiim1rhjdsu73bv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
